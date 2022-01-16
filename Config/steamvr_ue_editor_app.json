@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.projetvr-18319896.ue4editor.exe",
+			"app_key": "application.generated.ue.the-army-is-you-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "F:/UnrealProjects/TheArmyIsYou/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "ProjetVR-18319896 [UE Editor]"
+					"name": "The Army Is You-18319896 [UE Editor]"
 				}
 			}
 		}

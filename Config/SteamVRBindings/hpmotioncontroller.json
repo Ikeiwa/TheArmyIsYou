@@ -74,6 +74,17 @@
 					}
 				},
 				{
+					"mode": "trackpad",
+					"path": "/user/hand/right/input/trackpad",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Jump"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/left/input/joystick",
 					"inputs":
@@ -92,28 +103,6 @@
 						"value":
 						{
 							"output": "/actions/main/in/GrabAxisLeft axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/TriggerAxisLeft axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/TriggerAxisRight axis"
 						}
 					}
 				},
@@ -173,5 +162,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "The Army Is You-18319896"
 }
