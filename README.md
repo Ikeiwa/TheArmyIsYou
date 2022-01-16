@@ -2,7 +2,7 @@
 
 The army is you is a student VR project scoping a small action shooter game.
 
-![Preview](docs/preview.jpg)
+![Preview](preview.jpg)
 
 [Download here](https://github.com/Ikeiwa/TheArmyIsYou/releases/latest)
 
